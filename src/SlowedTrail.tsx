@@ -3,7 +3,6 @@ import {interpolate} from 'remotion';
 import {useCurrentFrame} from 'remotion';
 import React from 'react';
 
-// RemapSpeed is a helper function for the component [Slowed] that takes a frame number and a speed
 const remapSpeed = ({
 	frame,
 	speed,
